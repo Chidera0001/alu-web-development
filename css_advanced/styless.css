@@ -1,0 +1,33 @@
+body {
+    background-image: url("boy 2.jpg");
+    background-position: 0%;
+    background-size: cover;
+
+}
+
+
+header .h1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: absolute;
+    color: white;
+    padding: 1rem;
+    
+}
+
+header .LOGO {
+    position: absolute;
+    width: 150px;
+    flex:2
+
+}
+
+main {
+    position: relative;
+    
+}
+
+quoteblock .blockquote {
+                        background-color: rgb(226, 43, 223);
+}
